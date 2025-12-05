@@ -15,3 +15,4 @@ A retro-themed CSS framework inspired by the aesthetics of 16bit consoles
 # guard against empty input
 # drop an unused branch
 # avoid re-reading the config on every call
+# clarify the control flow
